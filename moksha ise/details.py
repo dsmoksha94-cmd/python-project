@@ -1,0 +1,10 @@
+name="Moksha"
+age=20
+college="GCEM"
+branch="ISE"
+fees=120000
+print(type(name))
+print(type(age))
+print(type(college))
+print(type(branch))
+print(type(fees))
